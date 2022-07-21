@@ -46,6 +46,7 @@
     <Compile Include="BlankFile.cs" />
     <Compile Include="CalcPower.cs" />
     <Compile Include="CalcSquare.cs" />
+    <Compile Include="CharacterAndFrequencyWithoutLINQ.cs" />
     <Compile Include="CharactersAndFrequency.cs" />
     <Compile Include="FindTheFactorial.cs" />
     <Compile Include="Program.cs" />
