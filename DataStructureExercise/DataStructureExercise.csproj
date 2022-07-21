@@ -48,6 +48,7 @@
     <Compile Include="CalcSquare.cs" />
     <Compile Include="CharacterAndFrequencyWithoutLINQ.cs" />
     <Compile Include="CharactersAndFrequency.cs" />
+    <Compile Include="ClacSquareWithoutLINQ.cs" />
     <Compile Include="FindTheFactorial.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
