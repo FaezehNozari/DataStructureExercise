@@ -41,8 +41,15 @@ namespace DataStructureExercise
 
             // Display The Characters And Frequency Of each Character
 
-             /* var Display = CharactersAndFrequency.CharAndFrequence("Faezeh");
-                Console.WriteLine(Display); */
+            /* var Display = CharactersAndFrequency.CharAndFrequence("Faezeh");
+               Console.WriteLine(Display); */
+
+
+            //Display The Characters And Frequency Of each Character without LINQ
+
+           // CharacterAndFrequencyWithoutLINQ.PrintCharAndFreq();
+
+
 
             Console.ReadKey();
         }
