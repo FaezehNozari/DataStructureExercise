@@ -10,8 +10,8 @@ namespace DataStructureExercise
     {
         public static string CalcuSquareEachNumber(int[] number)
         {
-            var Result = number.Select(x => x * x);
-            return String.Join(Environment.NewLine, Result);
+            var result = number.Select(x => x * x);
+            return String.Join(Environment.NewLine, result);
         }
     }
 }

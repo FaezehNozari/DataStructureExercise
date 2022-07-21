@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataStructureExercise
 {
-    public class CalcPower
+    public class PowerCalculator
     {
         public static double ClacPowerOfNumber(int number , int power)
         {
