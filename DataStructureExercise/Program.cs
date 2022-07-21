@@ -47,9 +47,14 @@ namespace DataStructureExercise
 
             //Display The Characters And Frequency Of each Character without LINQ
 
-           // CharacterAndFrequencyWithoutLINQ.PrintCharAndFreq();
+            // CharacterAndFrequencyWithoutLINQ.PrintCharAndFreq();
 
 
+
+            // Find Square Each Number Without LINQ
+
+            /*int[] myArray = {5 , 7 , 9 };
+              Console.WriteLine(ClacSquareWithoutLINQ.SquareArray(myArray));*/
 
             Console.ReadKey();
         }
